@@ -1,0 +1,11 @@
+# Danh sách minh chứng đưa vào báo cáo
+- [ ] Bìa có thông tin sinh viên, mã số SV, chủ đề, môn học.
+- [ ] Sơ đồ kiến trúc Nginx → ứng dụng → MySQL; Prometheus/Grafana; Promtail/Loki.
+- [ ] Ảnh màn hình đăng nhập và đăng nhập thành công.
+- [ ] Ảnh CRUD sinh viên, lớp học, điểm số.
+- [ ] phpMyAdmin hiển thị các bảng.
+- [ ] `docker compose ps` thể hiện dịch vụ thực tế.
+- [ ] `curl.exe -I http://localhost:8080` thể hiện security headers.
+- [ ] Prometheus Targets / dashboard Grafana có metrics.
+- [ ] Grafana Explore với ít nhất 2–3 truy vấn LogQL có kết quả.
+- [ ] Bằng chứng hardening và URL GitHub, lịch sử commit thật.
